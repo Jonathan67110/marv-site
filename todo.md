@@ -9,6 +9,8 @@ si pendant l'installation du plugin Websockets pour obs on a pas paramétré de 
 penser à déselectionner "activer l'authentification"
 
 
+------------------------------------
+Détailler "l'installation de Marv" pour les full "noob" informatique :)
 
 -----------------------------------
 
